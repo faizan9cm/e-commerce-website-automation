@@ -1,5 +1,3 @@
-**Title:** E-commerce Website Automation Script  
-
 **Description:**  
 This repository contains a Selenium-based automation script for performing comprehensive interactions with an e-commerce demo website. The script automates various user actions, such as navigating product sections, fetching data, interacting with shopping cart functionalities, and searching for items.
 

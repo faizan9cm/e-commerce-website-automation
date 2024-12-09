@@ -32,6 +32,6 @@ This repository contains a Selenium-based automation script for performing compr
 **How to Run:**  
 1. Clone the repository.  
 2. Install the required libraries using `pip install -r requirements.txt`.  
-3. Run the script: `python automation_script.py`.  
+3. Run the script: `scrape.py`.
 
 This repository is ideal for those exploring Selenium for web automation and testing workflows in e-commerce platforms.
